@@ -1,0 +1,16 @@
+P{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#ex1{
+    background-color: orange;
+}
+#ex2{
+    background-color: #d70e76;
+}
+#ex3{
+    background-color: rgb(0, 120, 240);
+}
